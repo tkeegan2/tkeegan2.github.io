@@ -1,0 +1,12 @@
+Title of the project: Real Time Bus Tracker
+Description of the project: Tracks bus stops every 1 second along a route from MIT's campus to Harvard's campus
+What does the current project do?  Relying on a public AP key for a map of Boston and a bus route data, it places a marker along bus stops from MIT's campus to Harvard's
+How to Run: Run this by swapping out the API key here in the JavaScript file for your own API key and opening the HTML file to something such as Google Chrome
+Roadmap of future improvements: It would be great to add bus stop numbers along the route so people know how many remain from a specific stop until the end
+License information: Copyright <2023> <Timothy Keegan>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
